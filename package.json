@@ -5,7 +5,8 @@
     "cross-env": "^6.0.3",
     "jquery": "^3.4.1",
     "laravel-mix": "^5.0.0",
-    "popper.js": "^1.16.0"
+    "popper.js": "^1.16.0",
+    "vue": "^2.6.10"
   },
   "scripts": {
     "dev": "npm run development",

@@ -19,9 +19,10 @@ mix.sass('src/scss/bootstrap.scss', 'dist/build/css')
         'dist/build/css/fontawesome.css',
         'dist/build/css/app.css',
     ], 'dist/build/css/bundle.css')
+    .js('src/js/app.js', 'dist/build/js')
     .scripts([
         'node_modules/jquery/dist/jquery.min.js',
         'node_modules/popper.js/dist/umd/popper.min.js',
         'node_modules/bootstrap/dist/js/bootstrap.min.js',
-        'src/js/app.js',
+        'dist/build/js/app.js',
     ], 'dist/build/js/bundle.js');
