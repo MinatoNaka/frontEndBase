@@ -5,6 +5,7 @@
 
 * bootstrap
 * fontawesome
+* vue.js
 
 # ビルド
 * パッケージインストール  
