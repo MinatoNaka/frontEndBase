@@ -6,6 +6,7 @@
 * bootstrap
 * fontawesome
 * vue.js
+* Vue Router
 
 # ビルド
 * パッケージインストール  
